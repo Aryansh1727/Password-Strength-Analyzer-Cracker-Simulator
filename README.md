@@ -34,4 +34,4 @@ Make sure you have the following installed:
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/password-analyzer-simulator.git](https://github.com/your-username/password-analyzer-simulator.git)
+   git clone [https://github.com/aryansh1727/password-analyzer-simulator.git](https://github.com/aryansh1727/password-analyzer-simulator.git)
