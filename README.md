@@ -28,7 +28,7 @@ To get this project running locally, follow these steps:
 
 ### Prerequisites
 Make sure you have the following installed:
-* Python 3.x
+* Python 3.13.1
 * Java Development Kit (JDK) 11 or higher
 
 ### Setup
