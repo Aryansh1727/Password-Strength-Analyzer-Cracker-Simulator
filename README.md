@@ -33,9 +33,9 @@ Make sure you have the following installed on your system:
 
 ### Setup
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Aryansh1727/Password-Strength-Analyzer-Cracker-Simulator.git 
-   ```
+```bash
+git clone https://github.com/Aryansh1727/Password-Strength-Analyzer-Cracker-Simulator.git 
+```
 2. **Navigate to the project directory:**
 ```bash
 cd Password-Strength-Analyzer-Cracker-Simulator
