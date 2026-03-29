@@ -18,7 +18,7 @@ A powerful, dual-language security tool designed to analyze password entropy and
 
 * **Python** - Core logic, brute-force simulation, and scripting.
 * **Java** - Backend processing and structure.
-* **[Insert GUI Framework, e.g., CustomTkinter]** - Dark-themed user interface.
+* **Java Swing** - Custom dark-themed user interface.
 
 ---
 
@@ -27,11 +27,30 @@ A powerful, dual-language security tool designed to analyze password entropy and
 To get this project running locally, follow these steps:
 
 ### Prerequisites
-Make sure you have the following installed:
-* Python 3.13.1
+Make sure you have the following installed on your system:
+* Python 3.13.1 or higher
 * Java Development Kit (JDK) 11 or higher
 
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/aryansh1727/password-analyzer-simulator.git](https://github.com/aryansh1727/password-analyzer-simulator.git)
+   git clone https://github.com/Aryansh1727/Password-Strength-Analyzer-Cracker-Simulator.git 
+   ```
+2. **Navigate to the project directory:**
+```bash
+cd Password-Strength-Analyzer-Cracker-Simulator
+```
+**🚦 Usage**
+Depending on which version or component of the project you want to run, use the corresponding commands below in your terminal:
+
+To run the Python Application:
+```bash
+python analyzer.py
+```
+To run the Java Application:
+```bash
+javac PasswordApp.java
+java PasswordApp
+```
+**🛡️ Disclaimer**
+This project is strictly for educational purposes. It is designed to help students and developers understand password security, hashing mechanics, and the vulnerabilities of weak credentials. Do not use this tool maliciously.
